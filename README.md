@@ -10,4 +10,6 @@
 
 Check [this](https://github.com/UPB-Graphics/gfx-framework/blob/master/README.md) out for the instructions of how to build/use this project.  
 
-![My Image](maxresdefault.jpg)
+![My Image](car_race.jpg)
+
+![My Image](car_race_1.jpg)
