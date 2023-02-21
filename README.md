@@ -8,6 +8,6 @@
 
 - Designed a curvature effect in Vertex Shader modifying the 'y' coordinate of all the objects' vertices in the scene.
 
-Check [this](https://github.com/UPB-Graphics/gfx-framework) out for the instructions of how to build/use this project.  
+Check [this](https://github.com/UPB-Graphics/gfx-framework/blob/master/README.md) out for the instructions of how to build/use this project.  
 
 ![My Image](maxresdefault.jpg)
