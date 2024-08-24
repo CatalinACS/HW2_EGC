@@ -6,10 +6,6 @@
 
 - Created a complex shape of the road rendering a large density of triangles so that no visual artifacts are generated.
 
-- Designed a curvature effect in Vertex Shader modifying the 'y' coordinate of all the objects' vertices in the scene.
-
-Check [this](https://github.com/UPB-Graphics/gfx-framework/blob/master/README.md) out for the instructions of how to build/use this project.  
-
 ![My Image](car_race.jpg)
 
 ![My Image](car_race_1.jpg)
