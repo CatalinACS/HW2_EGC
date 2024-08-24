@@ -1,4 +1,4 @@
-# Car-Race-In-OpenGL
+# HW2_EGC
 
 - Developed a car race based game using C++, OpenGL and Graphics Design techniques.
 
